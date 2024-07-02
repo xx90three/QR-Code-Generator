@@ -1,0 +1,15 @@
+C:\Users\Deekay\Desktop\QR Generator\QR Generator\bin\Debug\QR Generator.exe.config
+C:\Users\Deekay\Desktop\QR Generator\QR Generator\bin\Debug\QR Generator.exe
+C:\Users\Deekay\Desktop\QR Generator\QR Generator\bin\Debug\QR Generator.pdb
+C:\Users\Deekay\Desktop\QR Generator\QR Generator\obj\Debug\QR Generator.csproj.AssemblyReference.cache
+C:\Users\Deekay\Desktop\QR Generator\QR Generator\obj\Debug\QR_Generator.Form1.resources
+C:\Users\Deekay\Desktop\QR Generator\QR Generator\obj\Debug\QR_Generator.Properties.Resources.resources
+C:\Users\Deekay\Desktop\QR Generator\QR Generator\obj\Debug\QR Generator.csproj.GenerateResource.cache
+C:\Users\Deekay\Desktop\QR Generator\QR Generator\obj\Debug\QR Generator.csproj.CoreCompileInputs.cache
+C:\Users\Deekay\Desktop\QR Generator\QR Generator\obj\Debug\QR Generator.exe
+C:\Users\Deekay\Desktop\QR Generator\QR Generator\obj\Debug\QR Generator.pdb
+C:\Users\Deekay\Desktop\QR Generator\QR Generator\bin\Debug\zxing.dll
+C:\Users\Deekay\Desktop\QR Generator\QR Generator\bin\Debug\zxing.presentation.dll
+C:\Users\Deekay\Desktop\QR Generator\QR Generator\bin\Debug\zxing.xml
+C:\Users\Deekay\Desktop\QR Generator\QR Generator\bin\Debug\zxing.presentation.xml
+C:\Users\Deekay\Desktop\QR Generator\QR Generator\obj\Debug\QR Gener.B3EEAD27.Up2Date
